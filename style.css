@@ -41,18 +41,18 @@ li {
 padding:180px 0 100px 0 ;
 background-image: url("IMG_20181230_150318.JPG");
 background-size: cover;
-color: white;
+color: blanchedalmond;
 text-align: center;
 }
 
-.copy-container H1{
+.main .copy-container H1{
     font-size: 40px;
 }
 
-.copy-container h3{
+.main .copy-container h3{
     font-size: 40px;
 }
-.copy-container p{
+.main .copy-container p{
     font-size: 40px;
 }
 .footer
